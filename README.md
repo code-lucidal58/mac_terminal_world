@@ -30,4 +30,5 @@ Only in path-to-folder1/: x.txt
 Only in path-to-folder2/: y.txt
 
 ```
-Additional knowledge base can be found [here](https://www.macworld.com/article/1132219/termfoldercomp.html)
+`diff` can be used to compare content of files.
+Additional knowledge base can be found [here](https://ss64.com/osx/diff.html)
